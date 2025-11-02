@@ -1,5 +1,5 @@
 {
-  "name": "json-server-vercel-serverless",
+  "name": "vercel-serverless-api",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
