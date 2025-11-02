@@ -1,12 +1,8 @@
 {
-  "name": "json-server-vercel",
+  "name": "json-server-vercel-serverless",
   "version": "1.0.0",
-  "description": "JSON Server deployed on Vercel",
   "type": "module",
   "scripts": {
     "start": "vercel dev"
-  },
-  "dependencies": {
-    "json-server": "^0.17.4"
   }
 }
